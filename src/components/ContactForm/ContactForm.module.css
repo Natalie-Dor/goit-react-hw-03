@@ -1,0 +1,23 @@
+.formContainer {
+  max-width: 360px;
+  margin: 0 auto;
+}
+
+.label {
+  display: block;
+  margin-bottom: 10px;
+}
+
+.inputField {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 10px;
+  border: 1px solid #838080;
+  border-radius: 6px;
+}
+
+.errorMessage {
+  color: red;
+  font-size: 12px;
+  margin-top: 10px;
+}
